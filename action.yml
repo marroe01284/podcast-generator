@@ -15,4 +15,4 @@ inputs:
   name:
     description: the commiters name 
     required: true
-    default : ${{githun.actor }}
+    default : ${{github.actor }}
